@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bonjour 👋
 
-<!--
-**robinlafage/robinlafage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 **Profil** : Ingénieur logiciel junior, fraîchement diplômé  
+🎓 **Formation** : Grenoble INP - Esisar, Valence  
+💻 **Domaines** : Développement logiciel embarqué / débarqué, développement web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences principales 
+
+- **Langages** : Python, C, Java, Bash  
+- **Frameworks** : Django, Bootstrap, FastAPI, Flask  
+- **Cloud & Outils** : AWS, Docker, Git, PostgreSQL    
+- **Méthodologies** : Agile/Scrum, tests unitaires
+
+---
+
+## 📌 Projets
+### Projets perso
+*Liste des projets perso à ajouter*
+
+### Projets école
+*Liste des projets école à ajouter*
+
+---
+
+## 📫 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/robin-lafage-731492262)  
+- 📧 robinlafage42@gmail.com
