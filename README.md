@@ -20,7 +20,10 @@
 *Liste des projets perso à ajouter*
 
 ### Projets école
-*Liste des projets école à ajouter*
+- [Système de recherche d'information](https://github.com/robinlafage/Information_Retrieval) : Système d’Information Retrieval implémentant un indexeur, un moteur de recherche basé sur BM25, et un réordonnancement neuronal pour améliorer la pertinence des résultats.  
+- [Todo List Web App](https://github.com/robinlafage/es-todolist) : Application de gestion de tâches développée pour prendre en main AWS et les concepts de cloud computing (EC2, RDS, Cognito) avec une architecture basée sur les microservices.
+- [Simulation robotique](https://github.com/robinlafage/RMI) : Simulation de la navigation d'un robot dans un labyrinthe, gestion des capteurs, des moteurs et du bruit dans les mesures
+- [Émulateur MIPS](https://github.com/robinlafage/Emulateur-MIPS-C) : Émulateur reproduisant le comportement de la mémoire et dess registres d'une machine MIPS, selon les différentes instructions données en entrée
 
 ---
 
