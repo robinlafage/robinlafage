@@ -18,6 +18,7 @@
 ## 📌 Projets
 ### Projets perso
 - [Application de rappel de la règle 20-20-20](https://github.com/robinlafage/20-20-20) : Application permettant à l'utilisateur d'être averti toutes les 20 minutes de regarder à 20 pieds (6 mètres) pendant 20 secondes, afin de réduire la fatigue oculaire.
+- [Markdonw-plus](https://github.com/robinlafage/markdown-plus) : Extension VsCode améliorant markdown avec des fonctions automatiques.
 
 ### Projets école
 - [Système de recherche d'information](https://github.com/robinlafage/Information_Retrieval) : Système d’Information Retrieval implémentant un indexeur, un moteur de recherche basé sur BM25, et un réordonnancement neuronal pour améliorer la pertinence des résultats.  
